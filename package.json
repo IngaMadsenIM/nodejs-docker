@@ -1,10 +1,10 @@
 {
-  "name": "deploy-nodejs-docker",
+  "name": "myname",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/mpineault/deploy-nodejs-docker",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.20.0"
   }
 }
